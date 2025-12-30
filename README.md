@@ -34,3 +34,4 @@ Self-contained — Can be compiled and run directly.
 
 Output:
 
+<img width="1707" height="459" alt="Image" src="https://github.com/user-attachments/assets/305859fd-25fa-4fda-879d-d2456b416444" />
